@@ -1,0 +1,10 @@
+{
+    "folders": [
+		{
+			"path": "../Downloads"
+		}
+	],
+    "settings": {
+        "typescript.autoClosingTags": false
+    }
+}
